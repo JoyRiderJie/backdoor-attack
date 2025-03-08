@@ -1,5 +1,7 @@
 
 
+![](https://img.shields.io/badge/-awesomelists-FC60A8?style=flat-square&logo=awesomelists&logoColor=FFFFFF)
+
 # backdoor-attack
 
 
@@ -79,13 +81,11 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 * Causality Based Front-door Defense Against Backdoor Attack on Language Models    [paper](https://openreview.net/forum?id=dmHHVcHFdM)    |    [code](https://github.com/lyr17/Frontdoor-Adjustment-Backdoor-Elimination)
 
-* Defense against Backdoor Attack on Pre-trained Language Models via Head Pruning and Attention Normalization    [paper](https://openreview.net/forum?id=1SiEfsCecd)   |    [code](https://github.com/xingyizhao/PURE)
+* Defense against Backdoor Attack on Pre-trained Language Models via Head Pruning and Attention Normalization    [paper](https://openreview.net/forum?id=1SiEfsCecd)  |    [code](https://github.com/xingyizhao/PURE)
 
 * BD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency    [paper](https://openreview.net/forum?id=YCzbfs2few)   |   [code](https://github.com/THUYimingLi/BackdoorBox)
 
 * Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks    [paper](https://openreview.net/forum?id=ycLHJuLYuD)   |     [code](https://github.com/BigML-CS-UCLA/SafeCLIP)
-
-  
 
 * Energy-based Backdoor Defense without Task-Specific Samples and Model Retraining 🛡️   [paper](https://openreview.net/forum?id=TJ6tVNt6Y4)   |  [code](https://github.com/ifen1/EBBA)
 
@@ -99,10 +99,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 * Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning 🛡️  [paper](Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning)  |   [code](https://github.com/wenkehuang/FDCR)
-
 * SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification🛡️   [paper](https://papers.nips.cc/paper_files/paper/2024/hash/dbb5180957513805ebeea787b8c66ac9-Abstract-Conference.html)  |   [code](https://github.com/easywood0204/SampDetox)
-
-* 
 
 
 ----
@@ -154,9 +151,17 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 * Detection and Defense of Unlearnable Examples     [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29667)     | [code](https://github.com/hala64/udp)
 
-* Robust Communicative Multi-Agent Reinforcement Learning with Active Defense    [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29708)   |    
+* Robust Communicative Multi-Agent Reinforcement Learning with Active Defense    [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29708)      
 
-* 
+* LAFIT: Efficient and Reliable Evaluation of Adversarial Defenses With Latent Features   [paper](https://ieeexplore.ieee.org/document/10285432/)  
+
+* Variational Adversarial Defense: A Bayes Perspective for Adversarial Training      [paper](https://ieeexplore.ieee.org/document/10354457)
+
+* Adversarial Attack and Defense in Deep Ranking   [paper](https://ieeexplore.ieee.org/document/10433769)
+
+* Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks    [paper](https://ieeexplore.ieee.org/document/10494561)|    [code](https://github.com/mln66/MID)
+
+* Towards Unified Defense for Face Forgery and Spoofing Attacks via Dual Space Reconstruction Learning  [paper](https://link.springer.com/article/10.1007/s11263-024-02151-2)| [code](https://github.com/VISION-SJTU/UniDefense)
 
   (**The above papers are all from top conferences, such as CVPR, ACL, ICML, ICCV, etc.**)
 
